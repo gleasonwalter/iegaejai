@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mibocho.cherokee-project.com/sitemap.xml
